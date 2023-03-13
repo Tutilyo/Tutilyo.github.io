@@ -1,0 +1,118 @@
+* {
+    font-family: 'Nova Round', cursive;
+}
+
+body {
+
+    background: #D3CCE3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+p {
+
+    text-align: justify;
+    vertical-align: middle;
+    padding: 4px;
+}
+
+#botonInfo {
+    background: transparent;
+    border-style: outset;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#textoBoton {
+    display: inline;
+    align-content: center;
+
+}
+
+#clickAqui {
+    text-align: center;
+    font-size: medium;
+}
+
+
+
+#parrafointereses {
+
+    padding: 2em;
+}
+
+#parrafoOculto {
+
+    display: none;
+}
+
+#textoinfopersonal {
+
+    margin-top: 4em;
+}
+
+.text-center {
+    text-align: center;
+  }
+
+
+h1, h2, h3 {
+
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+
+
+#divh1 {
+
+    margin-bottom: 50px;
+    padding-top: 30px;
+}
+
+ul {
+
+    text-align: center;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+#pfinalotrasexp {
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+
+#listaSinPadding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#divsideizq {
+
+    border-right: 2px solid black;
+    padding: 0;
+    padding-top: 30px;
+    padding-left: 12px;
+}
+
+
+.imagen {
+    
+    display: block;
+    height: 200px;
+    width: 200px ;
+    background-size: 180% auto;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    align-content: center;
+    margin: auto;
+    
+}
